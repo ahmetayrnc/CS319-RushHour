@@ -9,8 +9,8 @@ Try to lead the red car to the exit by moving the other vehicles on the map out 
 The Less moves you make the more stars you collect.
 - Use your stars to uunlock new and awesome themes.
 - You can use 2 Power-ups for help if you are stuck.
-  - Poof: Select an obstacle to make it disappear.
-  - Shrink: Select a 3 by 1 object to make it a 2 by 1 object.
+  - **Poof:** Select an obstacle to make it disappear.
+  - **Shrink:** Select a 3 by 1 object to make it a 2 by 1 object.
   
 ## Notes
 
