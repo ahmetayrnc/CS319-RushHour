@@ -25,4 +25,21 @@ The Less moves you make the more stars you collect.
 **Trailer for the game:**  https://www.youtube.com/watch?v=HJOTIWJIaok&lc=z23qhrugpr3icru2qacdp43b03hu5abo3jwlprdff0pw03c010c
 
 ## Gallery
+<p align="middle">
+  <img src="https://github.com/ahmetayrnc/RushHour/blob/master/images/RushHourIcon.png" height="100" width="100">
+</p>
 
+<p float="left" align="middle">
+  <img src="https://github.com/ahmetayrnc/RushHour/blob/master/images/ss6.png" height="260" width="400">
+  <img src="https://github.com/ahmetayrnc/RushHour/blob/master/images/ss2.png" height="260" width="400">
+</p>
+
+<p float="left" align="middle">
+  <img src="https://github.com/ahmetayrnc/RushHour/blob/master/images/ss1.png" height="260" width="400">
+  <img src="https://github.com/ahmetayrnc/RushHour/blob/master/images/ss3.png" height="260" width="400">
+</p>
+
+<p float="left" align="middle">
+  <img src="https://github.com/ahmetayrnc/RushHour/blob/master/images/ss4.png" height="260" width="400">
+  <img src="https://github.com/ahmetayrnc/RushHour/blob/master/images/ss5.png" height="260" width="400">
+</p>
